@@ -17,7 +17,7 @@ def create_random_code(number):
 
 
 def send_sms(receptor, active_code, message):
-    APIKey = '4A4C4D38575978497A38554E4157385771783862413158386B76774B64585145486E534D3636526D5032413D'
+    APIKey = '----------------------------------------------------------'
     try:
         api = KavenegarAPI(APIKey)
         params = {
