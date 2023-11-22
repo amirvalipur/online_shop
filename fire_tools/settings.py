@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'mysql.connector.django',
         'NAME': 'fire_tools',
         'USER': 'root',
-        'PASSWORD': 'amir30070@',
+        'PASSWORD': '--------',
         'HOST': 'localhost',  # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     }
